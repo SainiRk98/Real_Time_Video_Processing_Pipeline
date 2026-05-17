@@ -2,6 +2,20 @@ venv/
 __pycache__/
 *.pyc
 .env
+
+# videos
 *.mp4
+*.avi
+*.mov
+
+# plots/images
+plots/
+*.png
+*.jpg
+
+# docs
+*.pdf
+
+# outputs
 outputs/
 weights/
